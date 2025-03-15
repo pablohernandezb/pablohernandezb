@@ -2,7 +2,9 @@
 
 ### About Me
 
+Hello! I craft models to understand our world. I am a Computer Engineer from [Universidad Simon Bolivar](https://usb.ve), with a PhD in Political Science from [Texas Tech University](https://ttu.edu). Previously, I was an Instructor at the Department of Political Science at TTU, currently on the job market.
 
+My research focuses on authoritarianism, legislatures, democratic backsliding, and innovations in political regimes. I try to understand why and how autocrats and leaders employ tools in their arsenal to expand their power. This includes ways to innovate and subvert democratic innovations to increase their chances of survival.
 
 <!--
 **pablohernandezb/pablohernandezb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
