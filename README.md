@@ -23,7 +23,9 @@ My research explores **authoritarianism, legislatures, and democratic backslidin
 - 📉 The survival strategies of authoritarian leaders in challenging contexts
 - 🗳 Electoral systems, and innovations (STAR⭐ voting)   
 
+
 ✨ Always open to **collaborations, projects, and conversations** at the intersection of **data science and political science**
+
 📫 Feel free to reach me at hi@pablohernandezb.dev
 
 <!--
