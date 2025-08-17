@@ -1,12 +1,38 @@
-## Hi there, I'm Pablo! 👋
+# 👋 Hello, I’m Pablo!
 
-### About Me
+🔹 **AI & ML Modeler | Data Scientist | Political Scientist**  
+🔹 **Computer Engineer (USB) | PhD Political Science & Applied Statistics (TTU)**  
 
-Hello! I craft models using AI and ML to understand our world. I am a Computer Engineer from [Universidad Simon Bolivar](https://usb.ve), with a PhD in Political Science and a minor in Applied Statistics from [Texas Tech University](https://ttu.edu). Previously, I was an Instructor of Applied Statistical and Political Science Methods at the Department of Political Science at TTU, currently serving as Professor Ad Honorem at the Department of Social Sciences at USB. I am skilled in managing the full data lifecycle (collection, cleaning, modeling, and advanced analysis). Proven ability to mentor and guide individuals through complex data processes, ensuring high-quality outcomes. Adept at translating and communicating data insights into actionable recommendations through clear visualization, scientific reporting, and presentations to answer key research questions and hypotheses.
+---
 
-I have a strong foundation in both classic statistical methods and modern computational techniques. I use my skills to build predictive and prescriptive models from complex datasets. My work isn't just about the numbers; I'm passionate about digging into unstructured data with tools that ranges from AI and Machile Learning to Natural Language Processing (NLP) and mapping out connections with Social Network Analysis (SNA) to find meaningful insights. I’m also experienced in data mining, finding valuable patterns in large and varied data sources using Deep Learning and Neural Networks. My go-to tools are Python, R, and their rich ecosystem of libraries like scikit-learn, statsmodels, pandas, Tidyverse, Tidymodels, and quanteda, and I've even worked in high-performance computing environments. It's all about tackling tough problems and helping make decisions that truly matter.
+## 🚀 What I Do  
+I design and build **AI and ML models** to make sense of our world. My expertise combines **data science, political science, and applied statistics** to uncover insights from both structured and unstructured data.  
 
-My research focuses on authoritarianism, legislatures, democratic backsliding, and innovations in political regimes. I try to understand why and how autocrats and leaders employ tools in their arsenal to expand their power. This includes ways to innovate and subvert democratic innovations to increase their chances of survival.
+- 🛠️ **Data Lifecycle Mastery**: Collection → Cleaning → Modeling → Advanced Analysis  
+- 👥 **Mentorship & Teaching**: Guided students and professionals through complex methods  
+- 📊 **Insight to Action**: Translate complex analyses into **visualizations, reports, and presentations** that drive decisions  
+
+---
+
+## 🧠 Skills & Tools  
+- **Statistical Methods & ML**: Predictive & prescriptive modeling, data mining, NLP, SNA, Deep Learning, Neural Networks  
+- **Programming**: Python 🐍 (pandas, scikit-learn, statsmodels), R 📊 (Tidyverse, Tidymodels, Quanteda)  
+- **High-Performance Computing**: Experience running large-scale analyses on HPC environments  
+- **Visualization & Communication**: Turning data into compelling narratives that answer big research questions  
+
+---
+
+## 🎯 Research Focus  
+My research explores **authoritarianism, legislatures, and democratic backsliding**:  
+- 🔎 How autocrats innovate to consolidate power  
+- 🏛️ How regimes adapt and subvert democratic institutions  
+- 📉 The survival strategies of authoritarian leaders in challenging contexts
+- 🗳 Electoral systems, and innovations (STAR⭐ voting)   
+
+---
+
+✨ Always open to **collaborations, projects, and conversations** at the intersection of **data science and political science**
+📫 Feel free to reach me at hi@pablohernandezb.dev
 
 <!--
 **pablohernandezb/pablohernandezb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
